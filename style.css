@@ -1,0 +1,33 @@
+span {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 40px;
+  text-align: left;
+}
+
+nav {
+  text-align: right;
+}
+
+h4 {
+  font-family: 'Julius Sans One', sans-serif;
+  color: gray;
+}
+
+ div#authorbio {
+  float: left;
+}
+
+footer {
+  text-align: center;
+  color: gray;
+  padding: 40px;
+}
+
+.image{
+  text-align: center;
+}
+
+.line{
+  border-top: 1px solid silver;
+  margin-top: -20px;
+}
